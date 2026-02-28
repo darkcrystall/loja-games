@@ -1,0 +1,4 @@
+# ignora arquivos de build e arquivos já compilados
+
+target/
+*.class
